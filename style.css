@@ -16,9 +16,10 @@ h1 {
 
 }
 
-img.about-me {
+p > img {
+    max-width: 250px;
 
-    
+
 }
 
 
