@@ -1,13 +1,13 @@
 
 body {
-    background-color: teal;
+    /* background-color: teal; */
+    background-image: url("water_bg.png");
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: white;
 }
 
 div {
     /* background-color: darkgoldenrod; */
-    background-image: url("water_bg")
     padding: 10px;
 
 }
