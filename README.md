@@ -37,33 +37,19 @@ The minimum requirements for this assignment were to :
 
 * Properly utilize Bootstrap functions.
 
-### Bonus
 
-* Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site (**Hint:** Check out the Bootstrap documentation).
 
 ## Commit Early and Often
 
 One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for two reasons:
 
-* Your commit history is a signal to employers that you are actively working on projects and learning new skills.
+I made sure to commit early and often. I did this because the commit history is a signal I am actively working on projects and learning new skills. Commit history allows people to revert their codebase in the event that they need to return to the previously written code.
 
-* Your commit history allows you to revert your codebase in the event that you need to return to a previous state.
-
-Follow these guidelines for committing:
-
-* Make single-purpose commits for related changes to ensure a clean, manageable history. If you are fixing two issues, make two commits.
-
-* Write descriptive, meaningful commit messages so that you and anyone else looking at your repository can easily understand its history.
-
-* Don't commit half-done work, for the sake of your collaborators (and your future self!).
-
-* Test your application before you commit to ensure functionality at every step in the development process.
-
-We would like you to have well over 200 commits by graduation, so commit early and often!
+I made single-purpose commits to ensure a clean, manageable history. I wrote descriptive commit messages/reasons so that anyone looking at my project can easily understand its history. I only commited work that was done, not half-done work. I tested my application before I committed my changes to ensure functionality.
 
 ## Submission on BCS
 
-You are required to submit the following:
+This is what is required to be submitted:
 
 * The URLs of the deployed applications
 
