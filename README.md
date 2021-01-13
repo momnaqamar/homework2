@@ -14,33 +14,28 @@ I used the Bootstrap CSS Framework to create a mobile responsive portfolio. I us
 I did this by creating the following files: `index.html`, `portfolio.html` and `contact.html`.
 
 
-### Hints
-
-* Use Bootstrap's grid system (containers, rows, and columns).
-
-* On an `xs` screen, content should take up the entire screen. On `sm` and larger screens, you should have some margins on the left and right sides of the screen. Check out various sites on your mobile device vs. your computer to see examples of these differences.
-
-* Use an HTML validation service to ensure that each page has valid HTML.
 
 ### Minimum Requirements
 
-* Functional, deployed application
+The minimum requirements for this assignment were to : 
 
-* GitHub repository with README describing the project
+* Create a functional and deployed application
 
-* Navbar must be consistent on each page.
+* Have a GitHub repository with a README that described this project
 
-* Navbar on each page must contain links to Home/About, Contact, and Portfolio pages.
+* Having a Navbar that is consistent on each page of the depolyed application.
 
-* All links must work.
+* Have the Navbar on each page and have it contain links to the Home/About, Contact, and Portfolio pages.
 
-* Must use semantic html.
+* Have working links.
 
-* Each page must have valid and correct HTML. (use a validation service)
+* Use semantic html.
 
-* Must contain your personalized information. (bio, name, images, links to social media, etc.)
+* Make sure that each page has valid and correct HTML.
 
-* Must properly utilize Bootstrap components and grid system.
+* Have the deployed application contain personalized information such as: bio, name, images, links to social media and more.
+
+* Properly utilize Bootstrap functions.
 
 ### Bonus
 
