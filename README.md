@@ -2,26 +2,15 @@
 
 The responsive design ensures that the web application renders well on a variety of devices and windows no matter the size. 
 
-## Directions
+## The directions for the assignment
 
-I used the Bootstrap CSS Framework to create a mobile responsive portfolio. 
-
-I did created 
-
-
-* Create the following files files: `index.html`, `portfolio.html` and `contact.html`.
-
-* Using Bootstrap, develop your portfolio site with the following items:
-
-   * A navbar
+I used the Bootstrap CSS Framework to create a mobile responsive portfolio. I used Bootstrap to develop my portfolio site with the following: 
 
    * A responsive layout
-
    * Responsive images
+   * A navbar
+I did this by creating the following files: `index.html`, `portfolio.html` and `contact.html`.
 
-* The Bootstrap portfolio should minimize the use of media queries.
-
-* Screenshots are provided as a reference in the `Assets/Images` folder. Your app does not need to be _exactly_ like the images. Use Bootstrap to create a similar, responsive layout.
 
 ### Hints
 
