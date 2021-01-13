@@ -2,6 +2,8 @@
 
 The responsive design ensures that the web application renders well on a variety of devices and windows no matter the size. 
 
+
+
 ## The directions for the assignment
 
 I used the Bootstrap CSS Framework to create a mobile responsive portfolio. I used Bootstrap to develop my portfolio site with the following: 
