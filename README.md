@@ -47,6 +47,8 @@ I made sure to commit early and often. I did this because the commit history is 
 
 I made single-purpose commits to ensure a clean, manageable history. I wrote descriptive commit messages/reasons so that anyone looking at my project can easily understand its history. I only commited work that was done, not half-done work. I tested my application before I committed my changes to ensure functionality.
 
+
+
 ## Submission on BCS
 
 This is what is required to be submitted:
